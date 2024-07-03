@@ -5,7 +5,7 @@
 <h1>My first PHP page</h1>
 
 <?php
-echo "i like azure";
+echo "i like azure than aws";
 ?>
 
 </body>
